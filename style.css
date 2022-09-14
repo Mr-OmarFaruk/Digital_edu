@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu:wght@400;700&display=swap');
+
+*{
+    margin: 0 auto;
+    font-family: 'Ubuntu', sans-serif;
+}
+
+
+.carousel-caption{
+    bottom: 7.25rem !important;
+}
+.title{
+    font-size: 100px;
+    font-weight: 700;
+}
+.explore-learn{
+    background-color: #f9fbfc;
+}
+.ready-to-join{
+    background-color: #389bde;
+}
