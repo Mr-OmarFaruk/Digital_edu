@@ -23,7 +23,7 @@ p {
 }
 
 /* Media quarie */
-@media (min-width: 768px) {
+@media (max-width: 768px) {
     .carousel-caption {
         bottom: 2.75rem !important;
       }
