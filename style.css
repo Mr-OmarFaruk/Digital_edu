@@ -5,15 +5,15 @@
     font-family: 'Ubuntu', sans-serif;
 }
 p{
-    font-size: 1.5rem;
+    font-size: 20px;
 }
 
 
 .carousel-caption{
-    bottom: 7.25rem !important;
+    bottom: 5.75rem !important;
 }
 .title{
-    font-size: 100px;
+    font-size: 80px;
     font-weight: 700;
 }
 .explore-learn{
@@ -22,3 +22,4 @@ p{
 .ready-to-join{
     background-color: #389bde;
 }
+
