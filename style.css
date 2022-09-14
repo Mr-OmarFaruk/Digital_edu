@@ -4,7 +4,9 @@
     margin: 0 auto;
     font-family: 'Ubuntu', sans-serif;
 }
-
+p{
+    font-size: 1.5rem;
+}
 
 .carousel-caption{
     bottom: 7.25rem !important;
